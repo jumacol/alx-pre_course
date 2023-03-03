@@ -1,2 +1,2 @@
 My first readme
-is so cool!
+is very cool!
